@@ -82,13 +82,13 @@
     <!-- ABOUT DIALOG -->
     <!-- TODO: string name="about_body">Get your fucking weather right</string-->
     <!-- Note to translators: remember to set your name in the strings.xml file, in the translator_name string -->
-    <!-- TODO: string name="about_developers"><![CDATA[Developed by <b>Frakbot</b> (Sebastiano Poggi and Francesco Pontillo).<p/>Based on the <i>Authentic Weather</i> concept by <b>Tobias van Scheider</b>.<p/>Translated with fucking love by <b>%s</b>.]]></string-->
-    <!-- TODO: string name="donate_frakbot">Donate to\nFrakbot</string-->
+    <string name="about_developers"><![CDATA[Desarrollado por <b>Frakbot</b> (Sebastiano Poggi y Francesco Pontillo).<p/>Basado en la <i>idea original</i> de <b>Tobias van Scheider</b>.<p/>Traducido con mucho puto amor por <b>%s</b>.]]></string>
+    <string name="donate_frakbot">Realizar una donación a\nFrakbot</string>
 
     <!-- Action Bar items -->
-    <!-- TODO: string name="done">DONE</string-->
+    <name="done">VALE</string>
 
     <!-- Switch values -->
-    <!-- TODO: string name="on">ON</string-->
-    <!-- TODO: string name="off">OFF</string-->
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
 </resources>
